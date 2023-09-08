@@ -26,7 +26,7 @@ Welcome to the Basic Amazon Frontend Clone project! This repository contains a s
 
 ## Tutorial Reference
 
-This project was created as part of the "[Amazon Clone](https://www.youtube.com/watch?v=nGhKIC_7Mkk&pp=ygUMYW1hem9uIGNsb25l)" tutorial by [Shradha Khapra](https://in.linkedin.com/in/shradha-khapra) on YouTube. The tutorial provides step-by-step guidance on building a basic Amazon frontend clone using HTML and CSS.
+This project was created as part of the "[Building AMAZON Clone for Beginners | Project using HTML & CSS](https://www.youtube.com/watch?v=nGhKIC_7Mkk&pp=ygUMYW1hem9uIGNsb25l)" tutorial by [Shradha Khapra](https://in.linkedin.com/in/shradha-khapra) on YouTube. The tutorial provides step-by-step guidance on building a basic Amazon frontend clone using HTML and CSS.
 
 ## Contributing
 
